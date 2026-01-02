@@ -24,11 +24,3 @@ An end-to-end AI and IoT-based application for smart agriculture that combines e
 - **IoT Simulation:** Arduino, Tinkercad  
 - **Tools:** Jupyter Lab, Anaconda  
 
----
-
-## 🏗 Project Structure
-precision_farming_dashboard/
-├── app.py
-├── sensor_data.csv
-├── crop_disease_model.h5
-├── README.md
